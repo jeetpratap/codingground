@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+India,49,80888,No
+Japan,30,53926,Yes
+Russia,34,60666,No
+Japan,43,68530,No
+Russia,45,,Yes
+India,39,65160,Yes
+Japan,,58419,No
+India,54,88753,Yes
+Russia,56,93246,No
+India,42,75271,Yes
